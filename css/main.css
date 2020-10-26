@@ -1,0 +1,69 @@
+h1 {
+    color: black;
+}
+
+a {
+    color: black;
+}
+
+h4 {
+    font-size: 15px;
+
+}
+
+
+.aukstis-100 {
+    height: 100px;
+}
+.aukstis-200 {
+    height: 200px;
+}
+.aukstis-300 {
+    height: 300px;
+}
+.aukstis-500 {
+    height: 500px;
+}
+
+.aukstisAuto {
+    height: auto;
+}
+
+.headerNavColor{
+background-color: #F7F7F7;
+}
+
+.footerColor{
+    background-color: #F7F7F7;
+}
+
+.cardSize{
+    width: auto;
+    height: 200px;
+}
+
+.signSize {
+    font-size: 150px;
+}
+
+.bodyColor{
+    /* background-image: url("../img/marscover.jpg"); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color:#F9F9F8;
+}
+
+.cardColor{
+    background-color: #F7F7F7;
+}
+
+.cardFontSize{
+font-size: 10px;
+
+}
+
+.imgSize{
+
+width: 200px;
+height: 200px;
+}
